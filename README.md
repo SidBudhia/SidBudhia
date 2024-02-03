@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siddharth Budhia</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+- 🌱 I’m currently learning **WebRTC, Socket.io**
+
 - 💬 Ask me about **react, node and express**
 
 - 📫 How to reach me **mesidbudhia20@gmail.com**
@@ -9,6 +11,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sidbudhia07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidbudhia07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siddharthbudhia21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharthbudhia21" height="30" width="40" /></a>
+<a href="https://codesandbox.com/mesidbudhia20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mesidbudhia20" height="30" width="40" /></a>
+<a href="https://fb.com/sidbudhia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sidbudhia" height="30" width="40" /></a>
+<a href="https://instagram.com/sid.budhia_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sid.budhia_21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/114120099_siddhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="114120099_siddhr" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sid_budhia21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sid_budhia21" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@siddharth2273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@siddharth2273" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/mesidbudhia20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/mesidbudhia20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
