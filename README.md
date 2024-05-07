@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mesidbudhia20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i1fNSyYEo-XUrQzlGewbZqEnEhVE258l/view?usp=drive_link](https://drive.google.com/file/d/1i1fNSyYEo-XUrQzlGewbZqEnEhVE258l/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/portfolio-docs-da824.appspot.com/o/Siddharth_Budhia.pdf?alt=media&token=de359f7a-9847-4ca4-9014-fa1844ffef59)
 
 - ⚡ Fun fact **Only Code Never Lies:)**
 
